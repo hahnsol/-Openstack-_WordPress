@@ -15,7 +15,7 @@
 
 <br>
 
-#### 2. vm1-mariadb 
+#### 2. vm2-mariadb 
 - image: CentOS-7-x86_64-GenericCloud-2003.qcow2  (openstack images)
 - flavor: vCPU=1, Mem=2046, Root Disk=10G)
 - network: internal network connecting router connected external network
